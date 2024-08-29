@@ -6,7 +6,7 @@
 
 Meu nome é Yuri Gabriel, tenho 18 anos e meu objetivo é me tornar um desenvolvedor fullstack. Atualmente, estou no segundo período do curso de Ciência da Computação na Universidade Estadual da Paraíba. Desde muito jovem, sempre tive uma grande paixão pela área de tecnologia, o que despertou meu desejo de trabalhar nesse setor.
 
-My name is Yuri Gabriel, I am 18 years old, and my goal is to become a full-stack developer. Currently, I am in the second semester of a Computer Science course at the State University of Paraíba. From a very young age, I have always had a strong passion for technology, which sparked my desire to work in this field.
+My name is Yuri Gabriel, I am 18 years old, and my goal is to become a full-stack developer. Currently, I am in the second semester of a Computer Science course at the Universidade Estadual da Paraiba. From a very young age, I have always had a strong passion for technology, which sparked my desire to work in this field.
 
 <h4 align="left">🎯 Minhas Skills / My Skills 🎯 </h4>
 

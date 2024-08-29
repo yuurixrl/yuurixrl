@@ -1,18 +1,21 @@
-# Hello World
-## I am Yuri Gabriel
+<h3 align="center"> 👾 Um pouco sobre mim. / A little about me. 👾 </h3>
 
-## Sobre mim
+Meu nome é Yuri Gabriel, tenho 18 anos e meu objetivo é me tornar um desenvolvedor fullstack. Atualmente, estou no segundo período do curso de Ciência da Computação na Universidade Estadual da Paraíba. Desde muito jovem, sempre tive uma grande paixão pela área de tecnologia, o que despertou meu desejo de trabalhar nesse setor.
 
-> Olá! Meu nome é Yuri Gabriel, eu sou estudante de Ciências da Computação na Universidade Estadual da Paraiba.
-## About me 
+My name is Yuri Gabriel, I am 18 years old, and my goal is to become a full-stack developer. Currently, I am in the second semester of a Computer Science course at the State University of Paraíba. From a very young age, I have always had a strong passion for technology, which sparked my desire to work in this field.
 
->Hello! My name is Yuri Gabriel, I am a Computer Science student at the State University of Paraiba.
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gabriel-9481a82b9/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuurixrl)
+<h4 align="center">🎯 Minhas Skills / My Skills 🎯 </h4>
 
-## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,py,flask,c,postman,git" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<h4 align="center">🧑‍💻 Conecte-se comigo / Connect with me 🧑‍💻 </h4>
+<p align="center">
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/yuri-gabriel-9481a82b9/)">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=linkedin,github" />
+  </a>
+</p>

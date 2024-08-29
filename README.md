@@ -1,3 +1,7 @@
+<p align="center">
+  <img align="center" src="https://github.com/yuurixrl/yuurixrl/blob/df9edf1d5c2acd708ede9c51fbb9d326e6181e91/assets/imagemgithub.jpg" alt="Imagem">
+</p>
+
 <h3 align="center"> 👾 Um pouco sobre mim. / A little about me. 👾 </h3>
 
 Meu nome é Yuri Gabriel, tenho 18 anos e meu objetivo é me tornar um desenvolvedor fullstack. Atualmente, estou no segundo período do curso de Ciência da Computação na Universidade Estadual da Paraíba. Desde muito jovem, sempre tive uma grande paixão pela área de tecnologia, o que despertou meu desejo de trabalhar nesse setor.

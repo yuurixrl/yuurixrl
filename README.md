@@ -18,9 +18,9 @@ My name is Yuri Gabriel, I am 18 years old, and my goal is to become a full-stac
 
 <h4 align="left">🧑‍💻 Conecte-se comigo / Connect with me 🧑‍💻 </h4> 
 <p align="left">
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/yuri-gabriel-9481a82b9/)">
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/yuri-gabriel-9481a82b9/)"><img src="https://github.com/yuurixrl/yuurixrl/blob/e5c57180ed8b06b71e88a7a498d0efd8c732bebe/assets/cd25f8b86738a6d59f764c1a05710beb%20(1).png" width="360px" align="right">
   <a href="">
     <img src="https://skillicons.dev/icons?i=linkedin,github" /> 
   </a>
 </p>
-<img src="https://github.com/yuurixrl/yuurixrl/blob/e5c57180ed8b06b71e88a7a498d0efd8c732bebe/assets/cd25f8b86738a6d59f764c1a05710beb%20(1).png" width="360px" align="right">
+

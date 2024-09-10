@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/yuurixrl/yuurixrl/blob/df9edf1d5c2acd708ede9c51fbb9d326e6181e91/assets/imagemgithub.jpg" width="500px" alt="Imagem">
+  <img align="center" src="https://github.com/yuurixrl/yuurixrl/blob/30bc5ef9ee23f90909928c0748dc037d345aed28/assets/b22aa22b2f3f55b6468361158d52e2e7.gif" width="500px" alt="Imagem">
 </p>
 
 <h3 align="center"> 👾 Um pouco sobre mim. / A little about me. 👾 </h3>
@@ -12,7 +12,7 @@ My name is Yuri Gabriel, I am 18 years old, and my goal is to become a full-stac
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,py,flask,c,postman,git" /> <img src="https://github.com/yuurixrl/yuurixrl/blob/e5c57180ed8b06b71e88a7a498d0efd8c732bebe/assets/cd25f8b86738a6d59f764c1a05710beb%20(1).png" width="360px" align="right">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,ts,py,flask,c,postman,git" /> 
   </a>
 </p>
 
@@ -23,4 +23,4 @@ My name is Yuri Gabriel, I am 18 years old, and my goal is to become a full-stac
     <img src="https://skillicons.dev/icons?i=linkedin,github" /> 
   </a>
 </p>
-
+<img src="https://github.com/yuurixrl/yuurixrl/blob/e5c57180ed8b06b71e88a7a498d0efd8c732bebe/assets/cd25f8b86738a6d59f764c1a05710beb%20(1).png" width="360px" align="right">
